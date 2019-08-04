@@ -1,0 +1,395 @@
+html, body {
+	font-size: 1px;
+}
+body {
+	width: 100%;
+}
+/* 0 page */
+.headline {
+	width: 100%;
+	height: 100vh;
+	background-image: url(https://pp.userapi.com/c857536/v857536043/1ae40/FXTRMZq1750.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	box-shadow: inset 0 0 0 2000px rgba(0, 0, 0, .7);
+}
+/* 937 1900*/
+.logo {
+	position: relative;
+	top: 29%;
+	left: 19.7%;
+	width: 61%;
+	font-size: 14rem;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-family: "Arial";
+	text-align: center;
+	color: #fff;
+	letter-spacing: 2.5px;
+}
+
+.sub {
+	position: relative;
+	top: 38%;
+	left: 19%;
+	width: 61%;
+	font-size: 72rem;
+	font-weight: bold;
+	font-family: "Arial";
+	text-align: center;
+	color: #fff;
+	letter-spacing: .5px;
+	line-height: 1.15;
+}
+.sub2 {
+	position: relative;
+	top: 42%;
+	left: 31.8%;
+	width: 36.8%;
+	font-size: 24rem;
+	font-weight: 300;
+	font-family: "Arial";
+	text-align: center;
+	color: #fff;
+	letter-spacing: .5px;
+	line-height: 1.5;
+}
+
+
+/* 1 page 1903 1068*/
+.describe {
+	height: 100vh;
+	width: 100%;
+	background-color: #c2c2c2;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+/*1200 1018 */
+.dance {
+	height: 95vh;
+	width: 63.1%;
+	background-color: #fff;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	left: 18.6%;
+	top: 1%;
+}
+
+
+.kivo {
+	position: relative;
+	top: 1.2%;
+	left: 13%;
+	text-align: center;
+	font-size: 29rem;
+	font-family: 'Roboto', Arial,sans-serif;
+	color: #000;
+	letter-spacing: 1px;
+	line-height: 1.6;
+	height: 5vh;
+	width: 72.5%;
+	font-weight: 400px;
+}
+/*.kivo:hover {
+    background-color: #000;
+    color: #fff;
+}*/
+
+/*1200 820 864*/
+.forma {
+	position: relative;
+	left: 36.9%;
+	top: 2%;
+	height: .6vh;
+	width: 26%;
+	background-color: #000;
+}
+
+.bro {
+	margin-top: 3%;
+	display: inline-block;
+	width: 100%;
+	height: 40%;
+}
+.bro:hover {
+	background-color: #c1c1c1;
+}
+
+/*1200 820 864*/
+.img {
+	position: relative;
+	height: 82%;
+	width: 25%;
+	top: 4%;
+	left: 7%;
+	float: left;
+	border: 4px solid #000;
+}
+/*.img:hover {
+	margin: 30px 6.3% 0 7%;
+	
+}*/
+
+.danc {
+	width: 55%;
+	min-height: 62px;
+	color: #000000;
+    font-size: 28rem;
+    font-family: 'Roboto',Arial,sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    float: right;
+  	margin: 30px 3% 0;
+  	text-align: center;
+}
+.danc:hover {
+    background-color: #000;
+    color: #fff;
+}
+/*.danc::first-letter {
+	font-size: 40px;
+	background-color: #929;
+}*/
+.forma2 {
+	height: 5px;
+	width: 485px;
+	position: relative;
+	top: 15px;
+	left: 85px;
+	background-color: #000;
+}
+.bro2 {
+	display: inline-block;
+	width: 1200px;
+	height: 390px;
+	position: relative;
+	top: 50px;
+}
+.bro2:hover {
+	background-color: #c1c1c1;
+}
+.danc2 {
+	width: 52.6315789%;
+	min-height: 62px;
+	color: #000000;
+    font-size: 28rem;
+    font-family: 'Roboto',Arial,sans-serif;
+    line-height: 1.55;
+    font-weight: 400;
+    float: left;
+    margin: 30px 3%;
+    text-align: center;
+}
+.danc2:hover {
+    background-color: #000;
+    color: #fff;
+}
+/*.danc2::first-letter {
+	font-size: 40px;
+	background-color: #459;
+}*/
+
+.img2 {
+	height: 354px;
+	width: 30%;
+	float: right;
+	margin-right: 100px;
+	margin-top: 15px;
+	border: 4px solid #000;
+}
+/*.img2:hover {
+	
+}*/
+.forma3 {
+	height: 5px;
+	width: 485px;
+	position: relative;
+	top: 100px;
+	left: 620px;
+	background-color: #000;
+}
+/* Начинается 2 страница 1903 1088*/
+.describe2 {
+	height: 100vh;
+	width: 100%;
+	background-color: #c2c2c2;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.dance2 {
+	height: 95vh;
+	width: 63.1%;
+	background-color: #fff;
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	left: 18.6%;
+	top: 1%;
+}
+
+/*.rq {
+	width: 100%;
+	min-height: 100px;
+	background-color: #f9f;
+	position: relative;
+	left: 12%;
+}
+.block {
+	width: 23%;
+	margin: 0 1%;
+	background-color: #C1C1C1;
+	float: left;
+}*/
+
+/* 3 page  1903 715*/
+
+
+.describe3 {
+	height: 100vh /*715px*/;
+	width: 100%;
+	background-color: #c2c2c2;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.dance3 {
+	height: 93vh;
+	width: 62.8%;
+	background-color: #fff;
+	background-image: url(https://static.tildacdn.com/tild3763-6532-4163-a435-336530366463/garni1_1_1.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	position: relative;
+	left: 18.6%;
+	top: 1%;
+}
+@media screen and (max-width: 375px) {
+	html, body {
+		font-size: 0.4px;
+	}
+	body {
+		width: 100%;
+	}
+	.headline {
+		width: 100%;
+	}
+	.logo {
+		width: 61%;
+		font-size: 14rem;
+	}
+	.sub {
+		width: 61%;
+		font-size: 72rem;
+	}
+	.sub2 {
+		width: 36.8%;
+		font-size: 24rem;
+	}
+	.describe {
+		width: 100%;
+	}
+	.dance {
+		width: 63.1%;
+	}
+	.kivo {
+		width: 72.5%;
+		font-size: 29rem;
+	}
+	.forma {
+		width: 26%;
+	}
+	.bro {
+		width: 100%;
+	}
+	.img {
+		margin-top: 4%;
+		margin-left: 2.5%;
+		width: 80%;
+	}
+	.describe2 {
+		width: 100%;
+	}
+	.dance2 {
+		width: 63.1%;
+	}
+	.describe2 {
+		width: 100%;
+	}
+	.dance2 {
+		width: 63.8%;
+	}
+}
+
+
+
+
+/* слайдер */
+.phot {
+	font-size: 50rem;
+	width: 100%;
+	font-weight: 400;
+	font-family: Arial;
+	color: #000;
+	background-color: #fff;
+	text-align: center;
+	font-style: uppercase;
+}
+.forma4 {
+	position: relative;
+	top: 10px;
+	left: 400px;
+	vertical-align: center;
+	height: 5px;
+	width: 400px;
+	background-color: #000;
+}
+/*.phot::after {
+	content: "";
+	height: 5px;
+	width: 313px;
+	background-color: #000;
+}*/
+.vid {
+	width: 800px;
+	height: 800px;
+}
+.slider {
+    width: 70%;
+    margin: 0px auto;
+}
+
+.slick-slide {
+  margin: 30px 20px;
+}
+
+.slick-slide img {
+ 	width: 100%;
+  	border: 4px solid #000;
+}
+.slick-slide video{
+	width: 100%;
+	border: 4px solid #000;
+}
+
+
+.slick-prev:before,
+.slick-next:before {
+  color: black;
+}
+ .slick-slide {
+  transition: all ease-in-out .3s;
+  opacity: .2;
+} 
+
+ .slick-active {
+  opacity: .5;
+}
+
+.slick-current {
+  opacity: 1;
+}
+
